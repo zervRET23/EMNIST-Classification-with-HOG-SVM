@@ -306,7 +306,12 @@ Program akan menghasilkan:
 * Akurasi klasifikasi huruf
 * Classification report
 * Confusion matrix
+![ConfusionMatrix](assets-img/conf_matrix.png)
+
+  
 * Visualisasi hasil prediksi huruf
+![Result](assets-img/result.png)
+
 
 ---
 
